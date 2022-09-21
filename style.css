@@ -1,0 +1,40 @@
+article{
+  display: block;
+}
+
+main {
+  font-family: helvetica;
+}
+
+
+.bloco {
+ width: 30%;
+ padding: 10px 0px 10px 10px;
+ margin: 10px;
+ color: white;
+ font-size: 13px;
+ text-align:start;
+ line-height: 0px;
+ }
+
+
+
+#bloco-1 {
+ background-color: darkorange;
+ border: 3px solid orange;
+}
+
+#bloco-2 {
+  background-color: darkolivegreen;
+  border: 3px solid darkgreen;
+}
+
+#bloco-3 {
+  background-color: darkslategray;
+  border: 4px dashed green
+}
+
+#bloco-4 {
+  background-color: brown;
+  border: 4px dashed lightcoral;
+}
